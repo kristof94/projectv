@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kristof94/projectv/issues"
   },
-  "homepage": "https://github.com/kristof94/projectv#readme"
+  "homepage": "https://github.com/kristof94/projectv#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
